@@ -7,7 +7,7 @@ char data[] = "10241040124040402102410240124004";
 
  
 //PWM pin
-PwmOut led(PA_15);       //might have to change PwmPin
+PwmOut led(PA_15);       
  
  
 //Ticker to update the PWM dutycycle
