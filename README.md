@@ -17,6 +17,9 @@ We can encode our data into differnt pulsewidth of PWM and send it out.
  4.Compile and Run.
  
  ## Result
+ 
+ **The output result is all at the first row of the below images **
+ 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### The output result of data"10241040124040402"
 ![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result.jpg)
