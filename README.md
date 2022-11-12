@@ -18,3 +18,14 @@ We can encode our data into differnt pulsewidth of PWM and send it out.
  
  ## Result
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### The output result of data"10241040124040402"
+![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result.jpg)
+
+#### The ouput result of bit "0"
+![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result0.jpg)
+#### The ouput result of bit "1"
+![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result1.jpg)
+#### The ouput result of bit "2"
+![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result2.jpg)
+#### The ouput result of bit "4"
+![](https://github.com/ponywang0506/embedded_system_HW5/blob/master/result/HW5_result4.jpg)
