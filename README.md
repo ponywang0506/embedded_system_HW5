@@ -18,7 +18,7 @@ We can encode our data into differnt pulsewidth of PWM and send it out.
  
  ## Result
  
- **The output result is all at the first row of the below images **
+ **The output result is all at the first row of the below images**
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### The output result of data"10241040124040402"
